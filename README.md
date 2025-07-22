@@ -1,4 +1,4 @@
 # Yash-Patel
-this is first repository
+Yash Patel 
 
-Author-Yash Patel
+Daiict
